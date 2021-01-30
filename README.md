@@ -1,6 +1,6 @@
-# bmi_calculator
+### Show some :heart: and star the repo to support the project
 
-BMI Calculator App.
+# BMI Calculator App
 
 ## Getting Started
 
