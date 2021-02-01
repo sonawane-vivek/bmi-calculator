@@ -2,6 +2,7 @@
 
 ### Show some :heart: and star the repo to support the project
 
+![BMI CALCULATOR](https://github.com/sonawane-vivek/bmi-calculator/blob/master/app_banner.jpeg)
 
 ## Getting Started
 
