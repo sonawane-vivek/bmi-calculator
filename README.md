@@ -7,10 +7,10 @@
 Simple BMI (Body mass index) calculator app built using flutter.
 App is currently only available for Android platform.
 
-### Test app
+## Test app
 
-####[32 bit](https://drive.google.com/file/d/1YbHv-H1lC2RPPAgWnJx3N095T2bV7AQl/view?usp=sharing)<br>
-####[64 bit](https://drive.google.com/file/d/1q43yqDo12VanNpDSd7yBBWBawHgoxG8f/view?usp=sharing)
+###[32 bit](https://drive.google.com/file/d/1YbHv-H1lC2RPPAgWnJx3N095T2bV7AQl/view?usp=sharing)<br>
+###[64 bit](https://drive.google.com/file/d/1q43yqDo12VanNpDSd7yBBWBawHgoxG8f/view?usp=sharing)
 
 ## Getting Started
 
