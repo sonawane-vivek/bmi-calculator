@@ -4,13 +4,13 @@
 
 ![BMI CALCULATOR](https://github.com/sonawane-vivek/bmi-calculator/blob/master/app_banner.jpeg)
 
-Simple BMI (Body mass index) calculator app built using flutter.
-App is currently only available for Android platform.
+<b>Simple BMI (Body mass index) calculator app built using flutter.</b
+<b>App is currently only available for Android platform.<b/>
 
 ## Test app
 
 <b>[32 bit](https://drive.google.com/file/d/1YbHv-H1lC2RPPAgWnJx3N095T2bV7AQl/view?usp=sharing)</b><br>
-[64 bit](https://drive.google.com/file/d/1q43yqDo12VanNpDSd7yBBWBawHgoxG8f/view?usp=sharing)
+<b>[64 bit](https://drive.google.com/file/d/1q43yqDo12VanNpDSd7yBBWBawHgoxG8f/view?usp=sharing)</b>
 
 ## Getting Started
 
